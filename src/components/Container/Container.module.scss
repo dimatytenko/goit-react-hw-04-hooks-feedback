@@ -1,7 +1,9 @@
+@import 'styles/shared';
+
 .Container {
   max-width: 1170px;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  background-color: lavender;
+  background-color: $background;
 }

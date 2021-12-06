@@ -1,9 +1,11 @@
+@import 'styles/shared';
+
 .FeedbackOptions {
   &__button {
     padding: 10px 20px;
     border: none;
     outline: none;
-    background-color: aqua;
+    background-color: $button-primary;
     border-radius: 5px;
   }
 
